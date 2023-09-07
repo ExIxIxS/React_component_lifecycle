@@ -19,4 +19,4 @@ The best way to remember React component lifecycle features is by using a diagra
 ### Collaboration
 You are welcome to raise issues and create pull requests.
 
-#### Depoyment: [React Component Lifecycle](https://exixixs.github.io/React_component_lifecycle/)
+#### Depoyment: [React Component Lifecycle](https://exixixs.github.io/react_component_lifecycle/)
